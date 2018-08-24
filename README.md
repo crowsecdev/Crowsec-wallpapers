@@ -1,0 +1,2 @@
+# Crowsec-wallpapers
+wallpaper crowsec
